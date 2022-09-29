@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\bin\Debug\netcoreapp3.1\TypingGame.exe
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\bin\Debug\netcoreapp3.1\TypingGame.deps.json
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\bin\Debug\netcoreapp3.1\TypingGame.runtimeconfig.json
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\bin\Debug\netcoreapp3.1\TypingGame.runtimeconfig.dev.json
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\bin\Debug\netcoreapp3.1\TypingGame.dll
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\bin\Debug\netcoreapp3.1\TypingGame.pdb
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\obj\Debug\netcoreapp3.1\TypingGame.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\obj\Debug\netcoreapp3.1\TypingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\obj\Debug\netcoreapp3.1\TypingGame.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\obj\Debug\netcoreapp3.1\TypingGame.AssemblyInfo.cs
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\obj\Debug\netcoreapp3.1\TypingGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\obj\Debug\netcoreapp3.1\TypingGame.dll
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\obj\Debug\netcoreapp3.1\TypingGame.pdb
+C:\Users\hp\Desktop\App\TypingGame\TypingGame\obj\Debug\netcoreapp3.1\TypingGame.genruntimeconfig.cache
